@@ -1,0 +1,41 @@
+{
+    "": [{ "id": 1, "title": "Faculty of Arts and Design", 
+               "thumbnailUrl": "http://localhost:9000/arte.jpg", 
+                "faculties": { "id": 1, "email":"facultateadearte@yahoo.com", "phone": "07216828975" }},
+             { "id": 2, "title": "Faculty of Chemistry, Biology and Geography", 
+               "thumbnailUrl": "http://localhost:9000/geografie.jpg", 
+                 "faculties": { "id": 1, "email":"facultateadecbg@yahoo.com", "phone": "0725451003" }},
+             { "id": 3, "title": "Faculty of Law", 
+               "thumbnailUrl": "http://localhost:9000/drept.jpg",
+                 "faculties": { "id": 1, "email":"facultateadedrept@yahoo.com", "phone": "0762354119" }},
+             { "id": 4, "title": "Faculty of Economics and Business Administration", 
+                "thumbnailUrl": "http://localhost:9000/feea.jpg", 
+                  "faculties": { "id": 1, "email":"facultateadeeco@yahoo.com", "phone": "0744485662" }},
+             { "id": 5, "title": "Faculty of Physical Education and Sports", 
+                "thumbnailUrl": "http://localhost:9000/sport.jpg", 
+                  "faculties": { "id": 1, "email":"facultateadesp@yahoo.com", "phone": "0722211002" }},
+             { "id": 6, "title": "Faculty of Physics", 
+                "thumbnailUrl": "http://localhost:9000/fizica.jpg", 
+                 "faculties": { "id": 1, "email":"facultateadefiz@yahoo.com", "phone": "0745255641" }},
+             { "id": 7, "title": "Faculty of Letters, History and Theology", 
+                "thumbnailUrl": "http://localhost:9000/litere.jpg", 
+                 "faculties": { "id": 1, "email":"facultateadelit@yahoo.com", "phone": "0761425789" }},
+             { "id": 8, "title": "Faculty of Mathematics and Computer Science", 
+                "thumbnailUrl": "http://localhost:9000/HomePageImg.jpg", 
+                  "faculties": { "id": 1, "email":"facultateadeinfo@yahoo.com", "phone": "0721154978" }}, 
+             { "id": 9, "title": "Faculty of Music and Theater", 
+                "thumbnailUrl": "http://localhost:9000/muzica.jpg", 
+                "faculties": { "id": 1, "email":"facultateademuz@yahoo.com", "phone": "072906071" }},
+             { "id": 10, "title": "Faculty of Sociology and Psychology", 
+                "thumbnailUrl": "http://localhost:9000/psiho.jpg", 
+                 "faculties": { "id": 1, "email":"facultadepsih@yahoo.com", "phone": "0723854123" }},
+             { "id": 11, "title": "Faculty of Political Sciences, Philosophy and Communication Sciences", 
+                "thumbnailUrl": "http://localhost:9000/comunicare.png", 
+                  "faculties": { "id": 1, "email":"facultateadecomu@yahoo.com", "phone": "0726658732" }}
+                         
+    ]
+  }
+
+
+
+
